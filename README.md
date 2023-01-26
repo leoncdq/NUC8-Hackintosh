@@ -1,10 +1,9 @@
-# NUC8-Hackintosh
 
-Hackintosh NUC8 
-OpenCore 0.8.8 MacOS Monterey 12.6.2
 # Intel NUC Model NUC8i7BEH
+* MacOS Monterey 12.6.2
+* Hackintosh NUC8 
+* OpenCore 0.8.8
 
-This repository contains personal work and files, developed and maintained for a successful use with Clover EFI bootloader on this specific Intel NUC model. There are no ready, pre-packaged EFI solutions provided; instead, the needed configuration and ACPI files are published for those interested in studying the code, while creating their own bootloader configurations.
 # Working
 * Ethernet
 * Wifi and Bluetooth
