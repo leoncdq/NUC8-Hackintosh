@@ -9,7 +9,6 @@
 * Wifi and Bluetooth
 * Audio - Rear panel audio input & output
 * USB - All port working (2.0, 3.0, 3.1), did not test transfer speed
-* AMD Radeon RX 560 with HDMI-output - Currently on 4k resolution
 * AirDrop
 * Shutdown
 * Restart
